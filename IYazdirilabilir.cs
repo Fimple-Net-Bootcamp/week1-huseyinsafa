@@ -1,0 +1,4 @@
+interface IYazdirilabilir
+{
+    void Yazdir();
+}

@@ -1,0 +1,15 @@
+C:\Users\Mileydi\Desktop\kütüphane yönetim\bin\Debug\net6.0\kütüphane yönetim.exe
+C:\Users\Mileydi\Desktop\kütüphane yönetim\bin\Debug\net6.0\kütüphane yönetim.deps.json
+C:\Users\Mileydi\Desktop\kütüphane yönetim\bin\Debug\net6.0\kütüphane yönetim.runtimeconfig.json
+C:\Users\Mileydi\Desktop\kütüphane yönetim\bin\Debug\net6.0\kütüphane yönetim.dll
+C:\Users\Mileydi\Desktop\kütüphane yönetim\bin\Debug\net6.0\kütüphane yönetim.pdb
+C:\Users\Mileydi\Desktop\kütüphane yönetim\obj\Debug\net6.0\kütüphane yönetim.csproj.AssemblyReference.cache
+C:\Users\Mileydi\Desktop\kütüphane yönetim\obj\Debug\net6.0\kütüphane yönetim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mileydi\Desktop\kütüphane yönetim\obj\Debug\net6.0\kütüphane yönetim.AssemblyInfoInputs.cache
+C:\Users\Mileydi\Desktop\kütüphane yönetim\obj\Debug\net6.0\kütüphane yönetim.AssemblyInfo.cs
+C:\Users\Mileydi\Desktop\kütüphane yönetim\obj\Debug\net6.0\kütüphane yönetim.csproj.CoreCompileInputs.cache
+C:\Users\Mileydi\Desktop\kütüphane yönetim\obj\Debug\net6.0\kütüphane yönetim.dll
+C:\Users\Mileydi\Desktop\kütüphane yönetim\obj\Debug\net6.0\refint\kütüphane yönetim.dll
+C:\Users\Mileydi\Desktop\kütüphane yönetim\obj\Debug\net6.0\kütüphane yönetim.pdb
+C:\Users\Mileydi\Desktop\kütüphane yönetim\obj\Debug\net6.0\kütüphane yönetim.genruntimeconfig.cache
+C:\Users\Mileydi\Desktop\kütüphane yönetim\obj\Debug\net6.0\ref\kütüphane yönetim.dll
